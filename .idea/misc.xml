@@ -3,7 +3,8 @@
   <component name="MavenProjectsManager">
     <option name="ignoredPathMasks">
       <list>
-        <option value="misc.xml" />
+        <option value=".idea/workspace.xml" />
+        <option value=".idea/misc.xml" />
       </list>
     </option>
   </component>
